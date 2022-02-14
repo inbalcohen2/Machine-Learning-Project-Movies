@@ -3,7 +3,7 @@
 [אנגלית מצגת למידת מכונה .pdf](https://github.com/inbalcohen2/Machine-Learning-Project-Movies/files/8056819/default.pdf)
 ![](https://github.com/inbalcohen2/Machine-Learning-Project-Movies/blob/main/images/WhatsApp%20Image%202022-02-14%20at%2012.12.22.jpeg?raw=true)
 ![]()
-![]()
+![](https://github.com/inbalcohen2/Machine-Learning-Project-Movies/blob/main/images/WhatsApp%20Image%202022-02-14%20at%2012.12.23%20(1).jpeg?raw=true)
 ![]()
 ![]()
 ![]()
